@@ -1,2 +1,5 @@
 fastapi
-
+google-api-python-client
+lxml
+pycryptodome
+uvicorn
